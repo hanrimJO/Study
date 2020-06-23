@@ -1,11 +1,14 @@
-a = input()
-tmp = a
+a = b = int(input())
+count = 0
 
 while True:
-    list_tmp = list(tmp)
-    sum_tmp = sum(list_tmp)
-    tmp = tmp[-1] + tmp
-
-
+    ten = a // 10
+    num = a % 10
+    plus = ten + num
+    count += 1
+    a = int(str(num) + str(plus%10))
+    if a == b:
+        break
+print(count)
 
 

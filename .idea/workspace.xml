@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8f6108c-8321-4cbe-bf0c-d87ff4557adc" name="Default Changelist" comment="" />
+    <list default="true" id="a8f6108c-8321-4cbe-bf0c-d87ff4557adc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/baekjoon/단계별/while/1110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/baekjoon/단계별/while/1110.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1d7K4ajTnTwy19CHNPFAOCPOtvq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -31,29 +40,7 @@
       <recent name="$PROJECT_DIR$/Data_structure/stack" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1110">
-    <configuration name="10871" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for/10871.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2446">
     <configuration name="10951" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2439" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2446" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,12 +115,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/baekjoon/단계별/실습1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for/2439.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/baekjoon/단계별/실습1/2446.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2523" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm/baekjoon/단계별/실습1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm/baekjoon/단계별/실습1/2523.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2446" />
+        <item itemvalue="Python.2523" />
         <item itemvalue="Python.1110" />
         <item itemvalue="Python.10951" />
         <item itemvalue="Python.10952" />
-        <item itemvalue="Python.10871" />
-        <item itemvalue="Python.2439" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +173,7 @@
       <updated>1591770500328</updated>
       <workItem from="1591770504221" duration="272000" />
       <workItem from="1592548825257" duration="2649000" />
-      <workItem from="1592799173937" duration="11448000" />
+      <workItem from="1592799173937" duration="16420000" />
     </task>
     <servers />
   </component>
@@ -172,48 +181,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="193" key="GridCell.Tab.0.bottom" timestamp="1592814658758">
+    <state width="1238" height="193" key="GridCell.Tab.0.bottom" timestamp="1592913486861">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1238" height="193" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1592909719940" />
     <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1592553827389" />
-    <state width="1238" height="193" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592814658758" />
-    <state width="1238" height="193" key="GridCell.Tab.0.center" timestamp="1592814658756">
+    <state width="1238" height="193" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592913486861" />
+    <state width="1238" height="193" key="GridCell.Tab.0.center" timestamp="1592913486859">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1238" height="193" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1592909719938" />
     <state width="1878" height="286" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1592553827388" />
-    <state width="1238" height="193" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592814658756" />
-    <state width="1238" height="193" key="GridCell.Tab.0.left" timestamp="1592814658755">
+    <state width="1238" height="193" key="GridCell.Tab.0.center/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592913486859" />
+    <state width="1238" height="193" key="GridCell.Tab.0.left" timestamp="1592913486850">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1238" height="193" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1592909719937" />
     <state width="1878" height="286" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1592553827387" />
-    <state width="1238" height="193" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592814658755" />
-    <state width="1238" height="193" key="GridCell.Tab.0.right" timestamp="1592814658757">
+    <state width="1238" height="193" key="GridCell.Tab.0.left/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592913486850" />
+    <state width="1238" height="193" key="GridCell.Tab.0.right" timestamp="1592913486860">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state width="1238" height="193" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-257.1920.1057@0.0.1280.800" timestamp="1592909719939" />
     <state width="1878" height="286" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-280.1920.1080@-1920.-280.1920.1080" timestamp="1592553827388" />
-    <state width="1238" height="193" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592814658757" />
-    <state width="1238" height="244" key="GridCell.Tab.1.bottom" timestamp="1592801169518">
+    <state width="1238" height="193" key="GridCell.Tab.0.right/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592913486860" />
+    <state width="1238" height="244" key="GridCell.Tab.1.bottom" timestamp="1592912883550">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="244" key="GridCell.Tab.1.bottom/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592801169518" />
-    <state width="1238" height="244" key="GridCell.Tab.1.center" timestamp="1592801169515">
+    <state width="1238" height="244" key="GridCell.Tab.1.bottom/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592912883550" />
+    <state width="1238" height="244" key="GridCell.Tab.1.center" timestamp="1592912883548">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="244" key="GridCell.Tab.1.center/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592801169515" />
-    <state width="1238" height="244" key="GridCell.Tab.1.left" timestamp="1592801169514">
+    <state width="1238" height="244" key="GridCell.Tab.1.center/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592912883548" />
+    <state width="1238" height="244" key="GridCell.Tab.1.left" timestamp="1592912883547">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="244" key="GridCell.Tab.1.left/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592801169514" />
-    <state width="1238" height="244" key="GridCell.Tab.1.right" timestamp="1592801169517">
+    <state width="1238" height="244" key="GridCell.Tab.1.left/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592912883547" />
+    <state width="1238" height="244" key="GridCell.Tab.1.right" timestamp="1592912883548">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="244" key="GridCell.Tab.1.right/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592801169517" />
+    <state width="1238" height="244" key="GridCell.Tab.1.right/0.0.1280.800/-1920.-280.1920.1080@0.0.1280.800" timestamp="1592912883548" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/study$2884.coverage" NAME="2884 Coverage Results" MODIFIED="1592806480188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/if" />
     <SUITE FILE_PATH="coverage/study$2741.coverage" NAME="2741 Coverage Results" MODIFIED="1592807612664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
     <SUITE FILE_PATH="coverage/study$10871.coverage" NAME="10871 Coverage Results" MODIFIED="1592811032739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
     <SUITE FILE_PATH="coverage/study$15552.coverage" NAME="15552 Coverage Results" MODIFIED="1592807505451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
+    <SUITE FILE_PATH="coverage/study$2446.coverage" NAME="2446 Coverage Results" MODIFIED="1592913486837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/실습1" />
     <SUITE FILE_PATH="coverage/study$2753.coverage" NAME="2753 Coverage Results" MODIFIED="1592804781666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon" />
     <SUITE FILE_PATH="coverage/study$10950.coverage" NAME="10950 Coverage Results" MODIFIED="1592807062561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
     <SUITE FILE_PATH="coverage/study$_.coverage" NAME="프로그래머스 탑 Coverage Results" MODIFIED="1592553215504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_structure/stack" />
@@ -222,11 +236,12 @@
     <SUITE FILE_PATH="coverage/study$2739.coverage" NAME="2739 Coverage Results" MODIFIED="1592806931075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
     <SUITE FILE_PATH="coverage/study$2439.coverage" NAME="2439 Coverage Results" MODIFIED="1592809221874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
     <SUITE FILE_PATH="coverage/study$___1_.coverage" NAME="프로그래머스 탑 (1) Coverage Results" MODIFIED="1592804073859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_structure/stack" />
-    <SUITE FILE_PATH="coverage/study$1110.coverage" NAME="1110 Coverage Results" MODIFIED="1592814658742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/while" />
+    <SUITE FILE_PATH="coverage/study$1110.coverage" NAME="1110 Coverage Results" MODIFIED="1592910119174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/while" />
     <SUITE FILE_PATH="coverage/study$10952.coverage" NAME="10952 Coverage Results" MODIFIED="1592812183117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/while" />
     <SUITE FILE_PATH="coverage/study$2742.coverage" NAME="2742 Coverage Results" MODIFIED="1592807678263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
     <SUITE FILE_PATH="coverage/study$8393.coverage" NAME="8393 Coverage Results" MODIFIED="1592807168763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
     <SUITE FILE_PATH="coverage/study$2438.coverage" NAME="2438 Coverage Results" MODIFIED="1592807986663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
     <SUITE FILE_PATH="coverage/study$11022.coverage" NAME="11022 Coverage Results" MODIFIED="1592807889941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/for" />
+    <SUITE FILE_PATH="coverage/study$2523.coverage" NAME="2523 Coverage Results" MODIFIED="1592910827534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm/baekjoon/단계별/실습1" />
   </component>
 </project>
