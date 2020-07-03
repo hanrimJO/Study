@@ -1,10 +1,11 @@
-a = input().lower()
-num_dict = {}
+a = input().upper()
+number = []
+for i in set(a):
+    number.append(a.count(i))
 
-for i in a:
-    if i in num_dict:
-        num_dict[i] += 1
-    else:
-        num_dict[i] = 1
+idx = [i for i, x in enumerate(number) if x == max(number)]
 
-num_dict.values()
+if len(idx) > 1:
+    print('?')
+else:
+    print(list(set(a))[number.index(max(number))])
